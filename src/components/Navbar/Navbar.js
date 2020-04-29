@@ -5,20 +5,20 @@ const Navbar = () => {
   return (
     <div>
       <h2>Cocktail App</h2>
-      <li>
-        <ul>
+      <ul>
+        <li>
           <a href="#">Home</a>
-        </ul>
-        <ul>
+        </li>
+        <li>
           <a href="#">User</a>
-        </ul>
-        <ul>
+        </li>
+        <li>
           <a href="#">Categories</a>
-        </ul>
-        <ul>
+        </li>
+        <li>
           <a href="#">Ingredients</a>
-        </ul>
-      </li>
+        </li>
+      </ul>
     </div>
   );
 };
