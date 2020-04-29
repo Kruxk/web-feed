@@ -3,6 +3,7 @@ ul {
   display: inline-block;
   width: 75% !important;
   text-align: center;
+  padding-inline-start: 0px;
 }
 
 li {
