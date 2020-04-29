@@ -16,7 +16,7 @@ const Navbar = () => {
           <a href="#">Categories</a>
         </li>
         <li>
-          <a href="#">Ingredients</a>
+          <a href="#">Alcoholic</a>
         </li>
       </ul>
     </div>
